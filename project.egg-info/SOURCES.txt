@@ -1,0 +1,13 @@
+setup.py
+kitabisa/__init__.py
+kitabisa/items.py
+kitabisa/middlewares.py
+kitabisa/pipelines.py
+kitabisa/settings.py
+kitabisa/spiders/__init__.py
+kitabisa/spiders/kita_bisa_campaign_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
